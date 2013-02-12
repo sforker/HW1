@@ -1,0 +1,10 @@
+
+body{
+font-size: 12pt;
+color: black
+}
+ul{list-style-type: none}
+h1{color:black; text-align:center; font-style:italic; }
+h2{color:black ; text-decoration: underline;text-align:center;}
+h3{color:black; font-style:bold;}
+a{color:black}
